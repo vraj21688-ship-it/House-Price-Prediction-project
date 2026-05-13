@@ -201,8 +201,18 @@ house-price-prediction-r/
 
 ---
 
-### Regression Model Results
+### Multiple Linear Regression Results
 ![Regression Results](screenshots/regression-model-results.png)
+
+---
+
+### Decision Tree Regression Results
+![Decision Tree](screenshots/decision-tree-results.png)
+
+---
+
+### Final Model Comparison
+![Model Comparison](screenshots/model-comparison-results.png)
 
 ---
 
